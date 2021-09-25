@@ -1,0 +1,61 @@
+body{
+    font-family: 'Courgette', cursive;
+    background-color: #5EF2D3 ;
+    display: block;  
+}
+
+#text-input{
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: 2rem;
+   font-size: 30px;
+   border-radius: 0.5rem;
+   border-width: 3px;
+   background-color: transparent;
+   border-color: rgb(49, 49, 49);
+}
+
+#output{
+    border: 1px solid;
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 30px;
+    border-radius: 0.5rem;
+    border-width: 3px;
+    background-color: transparent;
+    border-color: rgb(49, 49, 49);
+}
+
+
+.text{
+    font-size: large;
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 30px;
+}
+.container
+{
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;  
+}
+
+#btn-translator{
+    
+    padding: 1rem;
+    border-color: black;
+    background-color: transparent;
+    border-radius: 0.5rem;
+    border-width: 0.2rem;
+    background-color: transparent;
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    
+}
+p{
+    font-size: 20px;
+    
+}
