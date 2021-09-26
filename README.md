@@ -13,6 +13,7 @@ Created using Javascript,HTML,CSS
 
 ### Snapshot
 
+![ss1](https://user-images.githubusercontent.com/44290901/134798600-54d0e7dc-a2c4-4037-aa84-5c6e070cd34d.PNG)
 
 
 ### Thanks for going through my project please reach out to me on twitter if you want to give any feedback
